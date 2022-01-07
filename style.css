@@ -40,5 +40,14 @@ h1{
     border-radius: 40px;
     margin: 30px;
 }
+.half-width1{
+    width: 50%;
+    padding-right: 10%;
+    padding-top: 5%;
+}
+.half-width1 img{
+    width: 70%;
+    padding-left: 30%;    
+}
 
 

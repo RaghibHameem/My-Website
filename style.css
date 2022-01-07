@@ -49,5 +49,11 @@ h1{
     width: 70%;
     padding-left: 30%;    
 }
-
-
+.background1{
+    background-color: seagreen;
+    background-size: 20%;    
+}
+.shapes{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+}

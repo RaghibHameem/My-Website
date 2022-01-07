@@ -8,7 +8,7 @@ h1{
 .indigo{
     color: indigo;
 }
-section{
+.flexible-container{
     display: flex;
 }
 .half-width{
@@ -31,3 +31,14 @@ section{
     background-image: url(images/shapes/top-banner.png);
     background-repeat: no-repeat;
 }
+.text-manegment{
+    text-align: center;
+}
+.background{
+    background-color: lightcoral;
+    padding: 20px 50px;
+    border-radius: 40px;
+    margin: 30px;
+}
+
+
